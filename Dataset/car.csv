@@ -1,0 +1,121 @@
+car_id,model,year,price,specific_color,color,tot_mileage,package 
+WAUFM54D1YN003137,Audi A8,2008,70690,Moonlight Blue Metallic,Blue,5647,N/A
+TRUSC28N021013278,Audi TT,2002,31200,Suzuka Grey Metallic,Grey,18555,Premium 
+WAUPN54E59N003119,Audi S8,2009,96200,Daytona Gray Pearl,Gray,13697,Prestige 
+WA1WKBFP9CA103236,Audi Q5,2012,14200,Manhattan Gray metallic,Gray,1707,Premium Plus 
+WAUGC5440KN040016,Audi 200,1989,36355,Alpine White ,White,13338,Prestige 
+WAUHFBFL9DN011082,Audi A4,2013,24324,Navarra Blue Metallic,Blue,15695,Prestige 
+WAUHFAFLXBA083018,Audi A4,2011,10900,Terra Gray Metallic,Gray,4677,Executive 
+WA1LKDFP9AA026394,Audi Q5,2010,43000,Manhattan Gray metallic,Gray,19256,Convenience 
+WAUBK88C0SA000218,Audi 90,1995,27570,Indigo Metallic,Indigo,15699,Convenience
+WAUR4AFD0E0012911,Audi A8,2014,51723,Seville Red Metallic,Red,15870,Premium 
+WAUFEAFMXCA500125,Audi A3,2012,49699,Cosmos Blue Metallic,Blue,1204,Premium 
+WAUKGAFL0EA013017,Audi S4,2014,42563,Estoril Blue Crysta,Blue,19882,Prestige 
+WA1WGAFP8DA072803,Audi Q5,2013,88699,Navarra Blue metallic,Blue,9386,Convenience
+WAUAF98E17A024459,Audi A4,2007,53510,Mythos Black Metallic,Black,8293,Executive 
+WAUDFAFL6DN014563,Audi A4,2013,59373,Floret Silver Metallic,Silver,201,Convenience 
+WAUSFBFL5AA009175,Audi A4,2010,72570,Ibis White,White,17840,Premium
+WAUGN74F07N025367,Audi S6,2007,51148,Avalon Green Metallic,Green,10858,Executive
+WAUFFCFL0BN038438,Audi A4,2011,76839,Mythos Black Metallic,Black,15038,Prestige
+WUAVNAFG2FN000310,Audi R8,2015,45222,Vegas Yellow,Yellow,5806,Prestige 
+WAUKG98E86A547154,Audi A4,2006,54412,Ibis White,White,14010,N/A
+WAUGD28D4XA262224,Audi A4,1999,15430,Floret Silver Metallic,Silver,15938,Premium 
+WAUGFBFC3DN107849,Audi A6,2013,86046,Typhoon Gray Metallic,Gray,5817,N/A
+WUAEF48H070015388,Audi A4,2007,99940,Terra Gray Metallic,Gray,14534,N/A
+3N1CB51S26L606273,Nissan Sentra,2006,27775,Blue Dusk Clearcoat Metallic,Blue,19367,S trim
+JN6SD11S2NX420356,Nissan Truck,1992,20133,Winter Blue Metallic,Blue,11057,N/A
+1N4BA41E74C829102,Nissan Maxima,2004,29273,Champagne Mist Metallic,Beige,11640,SV trim
+1N6ED26Y3YC343363,Nissan Frontier,2010,24534,Tactical Green Metallic,Green,1427,S trim
+JN8DR07X11W766428,Nissan Pathfinder,2001,28394,Mocha Almond Pearl,Almond,11621,SV trim
+3N1EB31S06K327083,Nissan Sentra,2006,27468,Shimmer Clearcoat,Silver,4214,S trim
+JN4BU31D0VC191060,Nissan Altima,1997,36983,Super Black,Black,16260,Platinum trim
+1N4BA41E44CC81014,Nissan Maxima,2004,28164,Deep Blue Pearl,Blue,10996,SL trim
+JN8HD17S1PW042533,Nissan Pathfinder,1993,35445,Brilliant Silver Metallic,Silver,16022,Platinum trim
+1N4AL21E18NS14372,Nissan Altima,2008,49145,Pearl White ,White,4516,S trim
+1N4GB32A9NC702751,Nissan Sentra,1992,46191,Cloud White,White,2986,Platinum trim
+JN1HJ01C0PT020916,Nissan Maxima,1993,42704,Carnelian Red Tintcoat,Red,1485,SV trim
+1N4BL11E45C131623,Nissan Altima,2005,23422,Deep Blue Pearl,Blue,11037,S trim
+JN1AR5EG2EM110029,Nissan GT R,2014,160087,Pearl White TriCoat,White,8772,Premium
+5N1AT2MT0EL823797,Nissan Rogue,2014,46853,Light Gray Cloth,Gray,10869,SV trim
+1N6AD07U96CU58108,Nissan Frontier,2006,46016,Super Black,Black,18870,SV trim
+1N4DL01D8XC269288,Nissan Altima,1999,36597,Storm Blue Metallic,Blue,10488,SL trim
+JTHDL5EF2G5007689, Lexus LS 460,2016,32590,Caviar,Black,52000,F-Sport
+JTHDL5EF2G5007690,Lexus LS,2010,20000,Matador Red Mica,Red,87434,Comfort Package
+JTHDL5EF2G5007691,Lexus RX 330,2005,10600,Nebula Gray Pearl,Grey,52500,Luxury Package
+JTHDL5EF2G5007692,Lexus IS 250,2014,18000,Nori Green Pearl,Green,62900,F-sport
+JTHDL5EF2G5007693,Lexus RX 350,2008,12000,Atomic Silver,Silver,51000,Luxury Package
+JTHDL5EF2G5007694, Lexus RX 330,2003,8700,Eminent White Pearl,White,21200,Comfort Package
+JTHDL5EF2G5007695,Lexus RX 350,2012,13000,Moonbeam Beige Metallic,Beige,49000,Luxury Package
+JTHDL5EF2G5007696,Lexus IS 250,2007,9900,Nightfall Mica,Black,37000,F-sport
+JTHDL5EF2G5007697,Lexus GS 460,2008,11000,Obsidian,Black,38290,Luxury Package
+JTHDL5EF2G5007698,Lexus IS 350,2010,12113,Liquid Platinum,Gray,43000,F-sport
+JTHDL5EF2G5007699,Lexus GX 470,2004,9798,UltraSonic Blue Mica ,Blue,23900,Luxury Package
+JTHBK262X75404375, Lexus IS 250,2007,9600,Eminent White Pearl,White,89000,F-sport
+JTHBK1GG5F2209886,Lexus ES 350,2015,23000,Ultra White,White,47000,Comfort Package
+JTHBE1D27G5026344,Lexus IS 350,2016,33000,Nebula Gray Pearl,Grey,55000,Comfort Package
+JTHBE1D21F141DF75,Lexus IS 350,2015,27000,Nightfall Mica,Black,48000,Comfort Package
+JTJBJRBZ3G2039375, Lexus NX300h,2016,29000,Caviar Mica,Black,49570,Comfort Package
+JTHBW1GG2G2120234,Lexus ES 300h,2016,30000,Atomic Silver,Silver,54300,Luxury Package
+JTHBW1GG1F118BJ01,Lexus ES 300h,2015,25000,Infrared,Red,54400,Luxury Package
+JTHBE1BL0F118BJ76,Lexus RX 350,2018,38000,Cavier,Black,37000,Luxury Package
+JT8BH22F4T0056069,Lexus NX 350,2019,38000,Obsidian,Black,23200,Comfort Package
+JTDKB22U753079655,Toyota Prius,2018,23000,Super White,White,2100,XLE
+JTDKB22U753079656,Toyota Camry,2021,22000,Super White,White,30000,XL
+JTDKB22U753079657,Toyota Land Cruiser,2016,44000,Cement,Grey,27000,L
+JTDKB22U753079658,Toyota Camry,2010,12000,Magnetic Gray Metallic,Grey,80000,LE
+JTDKB22U753079659,Toyota Corolla,2011,12000,Midnight Black Metallic,Black,70000,SE
+JTDKB22U753079660,Toyota RAV4,2015,21000,Silver Sky Metallic,Silver,60000,XLS
+JTDKB22U753079661,Toyota Highlander,2010,13100,Silver Sky Metallic,Silver,60000,LE
+JTDKB22U753079662,Toyota Corolla,2020,25000,Midnight Black Metallic,Black,13000,SE
+JTDKB22U753079663,Toyota Highlander,2018,26070,Super White,White,37000,L
+JTDKB22U753079664,Toyota Camry Solara,2017,27000,Cement,Grey,40000,L
+JTDKB22U753079665,Toyota Land Cruiser,2005,10000,Midnight Black Metallic,Black,100000,L
+JTDBU4EE8BJD99172,Toyota Corolla,2008,10800,Midnight Black Metallic,Black,15000,XSE
+JT4RN82P5P5070933,Toyota Pickup,2018,27000,Super White,White,28000,LE
+1NXBR32E14Z196890,Toyota Corolla,2015,23000,Blizzard Pearl,Grey,37000,LE
+JT2GK14E0R0037916,Toyota Camry,2011,21000,Classic Silver Metallic,Grey,46000,SE
+JT3HN86R129066181,Toyota 4Runner,1998,6000,Super White,White,50000,L
+JTEJU9FJ6EK067027,Toyota Tacoma,2016,26000,Super White,White,41000,LE
+JTEHF21A220218606,Toyota Highlander,2010,21000,Super White,White,23000,XLE
+5TFSY5F16DX144647,Toyota Tundra,1999,6000,Super White,White,47000,SE
+JT4VN93D3K0000894,Toyota Pickup,1994,3000,Super White,White,130000,L
+WBAYF8C54ED653497,BMW i4 M50,2022,69395,Black Sapphire Metallic,Black,2,Premium Package
+WBALX5C50D0019163,BMW Z4 sDrive M40i,2022,63735,Glacier Silver Metallic,Silver,26,"Driving Assistance Package, Premium Package"
+WBADU51087LZ31238,BMW 228I xDrive Gran Coupe Sedan,2021,43807,Alpine White,White,11746,Heated Front Seats and Steering
+WBSAK0311LA280134,BMW X5 xDrive40i,2020,75045,Phytonic Blue Metallic,Blue,1786,"M Sport Package, Driving Assitance Professional Package, Premium Package"
+WB1049702R0400070,BMW X1 xDrive28i,2021,42995,Jet Black,Black,10,Premium Package
+5UXWX5C54BLK59228,BMW 750i xDrive,2017,92785,Donington Gray Metallic,Gray,76,"Executive Package, M Sport Package, Drive Assistance Professional Package"
+4USCH7323TLE00713,BMW 840i Convertible,2021,95000,Carbon Black Metallic,Black,6622,"M Sport Package, Driving Assitance Package"
+WB1022900BZU03139,BMW M3 Competition,2021,91495,Gray,Gray,9422,"Executive Package, Parking Assistance Package"
+5UXFE43588L200000,BMW M5 Competition,2021,117995,Marina Bay Blue Metallic,Blue,9221,"Competition Package, Executive Package, Driving Assistance Plus Package"
+5UXFE8C50AL879225,BMW i4 M50,2022,67349,Alpine White,White,86,N/A
+WBAKC5X45CC396724,BMW M850i xDrive Coupe,2021,92773,Barcelona Blue Metallic,Blue,10299,N/A
+WB10581A25ZL91434,BMW 330i xDrive Sedan,2021,43987,Melbourne Red Metallic,Red,9087,"Convenience Package, Driving Assistance Package, Parking Assistance Package"
+WB10434A43ZA68424,BMW X5 xDrive40i,2020,60845,Glacier Silver Metallic,Silver,5879,M Sport Package
+WBADN63433GS56677,BMW X3 M,2019,73890,Black Sapphire Metallic,Black,8684,Executive Package
+5UXFB33553L848177,BMW 750i xDrive,2022,110206,Mineral White Metallic,White,33,M Sport Package
+WBAUC73569VE86760,BMW X5 M50i,2021,83665,Carbon Black Metallic,Black,6348,N/A
+WBANE53536CK88757,BMW Z4 sDrive M40i,2018,47238,Alpine White,White,15561,Premium Package
+WDBTK77G88T087044,Mercedes-Benz G 550,2021,195990,Designo Mystic Brown Metallic,Brown,15011,N/A
+WDBCA37B0EA087451,Mercedes-Benz CLA 250 4Matic,2018,31500,Black,Black,23510,N/A
+WDBWK73F98F176842,Mercedes-Benz C 300 4Matic Sedan,2020,41500,Mojave Silver Metallic,Silver,18815,"Performance Tires, Woodgrain Interior Trim"
+WDBEA30D7KA867169,Mercedes-Benz CLA 250 Coupe,2022,41915,Polar White,White,102,"Heated front seats, Garage Door Opener"
+WDDNG9FB3DA504434,Mercedes-Benz GLC 300 SUV,2022,46750,Graphite Grey Metallic,Grey,1388,12.3-inch digital instrument cluster display
+WDBFA63E7SF113797,Mercedes-Benz E 450 4Matic Wagon,2022,79715,Nautical Blue Metallic,Blue,56,Driver Assistance Package
+WDBRF52J77F848665,Mercedes-Benz S 500 4Matic,2022,114075,Black,Black,28,Front-cabin MBUX Interior Assistance
+WDDGF8HB0AF377742,Mercedes-Benz G 550,2017,89559,Designo Magno Night Black,Black,69519,N/A
+WDBEA51D5NB651264,Mercedes-Benz GLE AMG 63 S 4Matic Coupe,2021,141000,Polar White,White,8606,Multi Zone Climate Control
+WDBFA67F0WF164230,Mercedes-Benz S AMG 63 4Matic Sedan,2020,140998,Magnetite Black Metallic,Black,15385,"Comfort Package, Driver Assistance Package"
+WD3PE8CC4B5607118,Mercedes-Benz SLC AMG 43,2019,71491,Designo Patagonia Red Metallic,Red,2660,"Multimedia Package, Driver Assistance Package, Blin Spot Monitoring"
+WDBNF70J01A160072,Mercedes-Benz C 300 Sedan,2021,42197,Blue,Blue,13900,Blind Spot Monitoring
+WDDHF8JB8DA706901,Mercedes-Benz GLE 450 4Matic,2020,67989,Polar White,White,20391,"Premium Package, RS Package, Power Package"
+WDDFH34XX8J381945,Mercedes-Benz GLA AMG 35 4Matic,2022,51997,Gray,Gray,3948,"Blind Spot Monitoring, Parking Sensors"
+WDBCA37D2FA187358,Mercedes-Benz GLS 450 4Matic,2020,74878,Polar White,White,30043,"Third Row Seating, Blind Spot Monitoring"
+WDBFA66E0LF009827,Mercedes-Benz AMG GT C Coupe,2019,143999,Designo Iridium Silver Magno,Silver,11930,Adaptive Suspension
+WDBCA33A3DB037925,Mercedes-Benz AMG GT 53 4Matic,2020,103987,Polar White,White,21127,"Blind Spot Monitoring, Heated Seats"
+WDBKK65F04F301341,Mercedes-Benz C 300 4Matic Sedan,2020,41500,Mojave Silver Metallic,Silver,18815,"Multi Zone Climate Control, Premium Package"
+WDBUH77X17B037951,Mercedes-Benz GLS AMG 63 4Matic,2021,165000,Obsidian Black,Black,20806,"Comfort Package, Adaptive Cruise Control"
+WDDHF8BB5EA955401,Mercedes-Benz S 580 4Matic Sedan,2021,123478,Black,Black,9905,N/A
+4JGBF25EX9A524783,Mercedes-Benz E AMG 53 4Matic,2017,51677,Selenite Grey Metallic,Grey,40238,"Adaptive Suspension, Blind Spot Monitoring"
+WD3PE7CC1A5475766,Mercedes-Benz E AMG 53 4Matic,2020,67587,Lunar Blue Metallic,Blue,37151,"Heated Seats, Light Package"
+WDBGA32G9XA408006,Mercedes-Benz GLE 450 4Matic,2018,58789,Mojave Silver Metallic,Silver,15843,N/A
