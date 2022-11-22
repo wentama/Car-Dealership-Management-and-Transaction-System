@@ -1,0 +1,20 @@
+The SQL file needed to create the database in MySQL Workbench is included in the
+folder titled “Database - Schema.” The file contains the code needed to create the tables as well
+as the code that could be used to insert all the tuples in the database. Moreover, if needed, the
+original csv files that include all the tuples that were imported into the workbench are stored in
+the folder titled “Dataset”. To implement the database management system, one can simply copy
+and paste the sql code in the sql file into their own connection on MySQL Workbench. These
+codes include the ones under “Table structure for table ‘...’ ” and “Dumping Data for table ‘...’”.
+There are 8 tables included.
+
+To implement the command line user interface, one would first need to go to the
+command prompt of their device and enter “pip install mysql-connector-python” so that python
+would be able to access and make changes to the database in MySQL. The code for the user
+interface is provided in two different forms: HTML files and Python File. However, the python
+file will likely not work because the user would have to manually select which connection for
+python to connect. Note that the password will also be different depending on the user’s password 
+for the service on their device. Therefore, in order to implement the user interface, one could 
+copy the python code from the HTML file into their choice of python integrated development 
+environment, and then update the MySQL connection to where they implemented the database to, 
+and finally export it as a python file. To run the interface, one would need to cd the exported
+python file’s directory. And then call the file.
