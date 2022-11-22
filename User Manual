@@ -1,0 +1,21 @@
+User Manual 
+
+This database is used to see an inventory of a dealership and whether a customer is able
+to purchase a vehicle from the dealership. Also, it tracks the transaction between a customer and
+an employee and sees if certain vehicles are available at a dealership for sale. When purchasing a
+car, a customer can see its mileage, price, color, package and previous owner. The only thing a
+customer needs to do is to enter a car’s information he or she is looking for. For example, if a
+customer is looking for an Audi. What he needs to do is just enter the information such as color,
+model, and the system will output a list of Audi cars with their own unique Car_id, packages and
+prices. To get access to such a search engine, a customer needs to run the python file in their
+computer’s cmd. When they enter the certain directory and run the python file, the cmd will give
+you 7 options, you can not only search for your favorite cars’ information, but also search for the
+previous owners, the customers' information, also with the transaction between employees and
+customers. Once you enter a number of options you are looking for, all you need to enter is
+simple, for example, you only need to enter your own SSN, or a car’s year, mileage or price, you
+can get the information about the seller, the buyer and the car itself. If you need to add a
+transaction, all you need to do is to press 6, enter the date, cSSN, eSSN and the car_id, and then
+you are done, and that certain record will be saved to the system. When you have finished your
+research, all you need to do is to enter 7, and you can log out from this engine. This system will
+provide you a safe, sound information package that will make you feel more safe about the car
+you are going to purchase and the dealership you are dealing with.
